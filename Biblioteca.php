@@ -14,7 +14,7 @@
       $servername = "localhost"; 
       $database = "articulos";
       $username = "dbadmin"; 
-      $password = "dbadmin"; 
+      $password = "dbadmin12345"; 
       // Create connection 
       $conn = mysqli_connect($servername, $username, $password, $database); 
       // Check connection 
